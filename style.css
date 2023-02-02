@@ -1,0 +1,41 @@
+#peopleCounter{
+    border: 3px solid black;
+    align-items: center;
+}
+body{
+    background-color: azure;
+}
+h1{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#increment{
+    height: 40px;
+    position: relative;
+    left: 42.3%;
+    background-color: rgb(250, 82, 53);
+    text-decoration: solid;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#save{
+    height: 40px;
+    width: 157px;
+    position: relative;
+    left: 42.3%;
+    background-color: rgb(29, 233, 97);
+    text-decoration: solid;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#reset{
+    height: 40px;
+    width: 157px;
+    position: relative;
+    left: 42.3%;
+    background-color: rgb(29, 131, 233);
+    text-decoration: solid;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
